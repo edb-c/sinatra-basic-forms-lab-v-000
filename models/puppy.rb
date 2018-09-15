@@ -7,4 +7,3 @@ class Puppy
     @age = age
   end
 end
-© 2018 GitHub, Inc.
